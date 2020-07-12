@@ -1,1 +1,1 @@
-Belly Button Biodiversity URL link : https://mignon-duplessis.github.io/Plot.ly_Homework//Instructions/StarterCode/
+Belly Button Biodiversity URL link : https://mignon-duplessis.github.io/Plot.ly_Challenge//Instructions/StarterCode/
